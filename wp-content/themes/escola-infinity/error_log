@@ -1,0 +1,5 @@
+[18-Nov-2017 05:21:02 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/xcelercom/public_html/escola-infinity/wp-content/themes/escola-infinity/index.php on line 1
+[18-Nov-2017 17:35:59 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/xcelercom/public_html/escola-infinity/wp-content/themes/escola-infinity/index.php on line 1
+[18-Nov-2017 20:42:18 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/xcelercom/public_html/escola-infinity/wp-content/themes/escola-infinity/index.php on line 1
+[18-Nov-2017 23:57:55 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/xcelercom/public_html/escola-infinity/wp-content/themes/escola-infinity/index.php on line 1
+[22-Nov-2017 20:07:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function get_header() in /home/xcelercom/public_html/escola-infinity/wp-content/themes/escola-infinity/index.php on line 1
